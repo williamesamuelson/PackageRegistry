@@ -1,0 +1,3 @@
+name = "AffineRayleighOptimization"
+uuid = "afc0e0ae-cd0a-41ee-b0f5-7950de095d62"
+repo = "https://github.com/williamesamuelson/AffineRayleighOptimization.jl"

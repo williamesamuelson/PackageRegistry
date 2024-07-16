@@ -4,3 +4,4 @@ repo = "https://github.com/williamesamuelson/PackageRegistry.git"
 description = "My private registry"
 
 [packages]
+afc0e0ae-cd0a-41ee-b0f5-7950de095d62 = { name = "AffineRayleighOptimization", path = "A/AffineRayleighOptimization" }
