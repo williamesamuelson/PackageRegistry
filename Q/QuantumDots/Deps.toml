@@ -17,3 +17,6 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 ["0.10 - 0"]
 OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+
+["0.11 - 0"]
+TestItems = "1c621080-faea-4a02-84b6-bbd5e436b8fe"
