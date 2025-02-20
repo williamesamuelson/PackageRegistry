@@ -6,8 +6,14 @@ AffineRayleighOptimization = "2"
 OrderedCollections = "1.6.3 - 1"
 julia = "1.10.0 - 1"
 
-["1.4 - 1"]
-Combinatorics = "1"
+["1.4"]
 LinearSolve = "2"
 QuantumDots = "0.15"
+
+["1.4 - 1"]
+Combinatorics = "1"
 TestItems = "1"
+
+["1.5 - 1"]
+LinearSolve = "2 - 3"
+QuantumDots = "0.16"
