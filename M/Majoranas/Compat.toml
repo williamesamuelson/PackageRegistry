@@ -14,6 +14,11 @@ QuantumDots = "0.15"
 Combinatorics = "1"
 TestItems = "1"
 
+["1.5"]
+QuantumDots = "0.16"
+
 ["1.5 - 1"]
 LinearSolve = "2 - 3"
-QuantumDots = "0.16"
+
+["1.7 - 1"]
+QuantumDots = "0.17"
