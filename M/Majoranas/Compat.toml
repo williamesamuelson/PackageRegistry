@@ -20,5 +20,8 @@ QuantumDots = "0.16"
 ["1.5 - 1"]
 LinearSolve = "2 - 3"
 
-["1.7 - 1"]
+["1.7"]
 QuantumDots = "0.17"
+
+["1.8 - 1"]
+QuantumDots = "0.18"
